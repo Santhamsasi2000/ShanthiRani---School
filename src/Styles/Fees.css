@@ -1,0 +1,53 @@
+table,th,td
+{
+  border: 1px solid black;
+  background-color: #f3f6ff !important;
+}
+
+@media  (max-width: 650px) 
+{
+  .fees-font
+  {
+    font-size: 14px;
+  }
+}
+
+@media  (max-width: 550px) 
+{
+  .fees-font
+  {
+    font-size: 13px;
+  }
+}
+
+@media  (max-width: 500px) 
+{
+  .fees-font
+  {
+    font-size: 12px;
+  }
+}
+
+@media  (max-width: 480px) 
+{
+  .fees-font
+  {
+    font-size: 11px;
+    padding: 10px !important;
+  }
+}
+
+@media  (max-width: 400px) 
+{
+  .fees-font
+  {
+    font-size: 10px;
+    padding: 5px !important;
+  }
+
+  .fees-term
+  {
+    padding: 3px !important;
+  }
+}
+

@@ -1,0 +1,35 @@
+/* Foundation.css */
+.foundation
+{
+    background-color: #344966;
+    color: #f0f4ef;
+}
+
+.fo-title
+{
+  font-size: x-large;
+  font-weight: 900;
+}
+
+.fo-subtitle
+{
+  font-size: x-large;
+  font-weight:600;
+}
+@media all and (min-width: 370px) and (max-width: 470px)
+{
+    .foundation
+    {
+       padding-left: 100px !important;
+    }
+
+}
+
+@media all and (min-width: 470px) and (max-width:768px)
+{ 
+    .foundation
+    {
+       padding-left: 150px !important;
+    }
+
+}

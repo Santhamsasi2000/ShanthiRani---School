@@ -1,0 +1,26 @@
+@media all and (max-width:350px) 
+{
+    .menus
+    {
+        gap: 11px !important;
+    }
+}
+
+.navlink
+{
+    font-weight: bold;
+    background-color: white !important;
+    color:  #0D1466 !important;
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 7px;
+}
+
+@media (max-width: 500px) 
+{
+    .navlink
+    {
+        font-weight: normal;
+        font-size: 14px;
+    }
+}

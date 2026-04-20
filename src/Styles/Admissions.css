@@ -1,0 +1,24 @@
+ol li
+{
+    margin-bottom: 10px;
+}
+
+/* ReqDocuments.css */
+
+@media all and (max-width: 500px)
+{
+    .doc-data
+    {
+        font-size: 12px;
+    }
+
+}
+
+@media all and (max-width: 400px)
+{
+    .doc-data
+    {
+        font-size: 9px;
+    }
+
+}

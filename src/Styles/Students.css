@@ -1,0 +1,57 @@
+.toppers
+{
+    color:#678bf3;
+}
+
+.topper
+{
+    color: #3934f9;
+}
+
+.card {
+    width: 250px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.card-img-top {
+    border-radius: 10px 10px 0 0;
+    height: 300px;
+    object-fit: cover;
+}
+
+/* Academics.css */
+.block-image
+{
+    height: 350px;
+}
+
+@media  all and (max-width: 500px)
+{
+    .block-image
+    {
+        height: 300px;
+    }
+}
+
+@media  all and (max-width: 400px)
+{
+    .block-image
+    {
+        height: 250px;
+    }
+}
+
+/* SchoolTopper.css */
+
+.toppers-img
+{
+    height: auto;
+    width: 100%;
+}
+
+/* Syallbus.css */
+th,td
+{
+    padding: 10px;
+}

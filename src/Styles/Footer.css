@@ -1,0 +1,38 @@
+.media-icons
+{
+    border-radius: 100px;
+    width: 40px;
+    height: 40px; 
+}
+
+.navcolor
+{
+    color: #0D1466 !important;
+}
+
+.footer a
+{
+    color: white;
+}
+
+.media-icons:hover
+{
+    background-color:bisque !important;
+}
+
+.footer .menu-Links
+{
+    text-decoration: none;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.footer .contact-links
+{
+    text-decoration: none;
+}
+
+.footer .menu-Links:hover,.footer .contact-links:hover
+{
+    text-decoration: underline;
+}

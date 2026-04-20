@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+.footer,.menus,.btn-common
+{
+    background-color: #0D1466;
+    color: white;
+}
+
+.common-bg
+{
+    background-color: #f3f6ff !important;
+}
+
+.title
+{
+    color:  #0D1466;
+    font-weight: 900;
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Sora", serif;
+}
+
+.subTitle
+{
+    color: #1c23bb;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: "Sora", serif;
+}
+
+.text-justify
+{
+    text-align: justify;
+}
+
+.common-btn
+{
+   background-color: #576cfb;
+   color: #f3f6ff;
+   text-decoration: none;
+   padding: 8px 24px;
+   border-radius: 4px;
+   border: none;
+}
+
+.common-btn:hover
+{
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+.common-btn:active
+{
+    font-weight: bold;
+    background-color: #3440f3;
+    transition: 0.5s;
+}

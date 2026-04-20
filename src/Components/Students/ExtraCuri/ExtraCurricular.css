@@ -1,0 +1,35 @@
+.extra-title
+{
+  background-color: #879cfe;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.extra-border
+{
+    border-color:#879cfe !important;
+}
+
+.extra-img
+{
+    height: 400px;
+}
+
+@media all and (max-width: 992px)
+{
+    .extra-img
+    {
+        height: 300px;
+    }
+}
+
+@media all and (max-width: 768px)
+{
+    .extra-img
+    {
+        height: 250px;
+    }
+}

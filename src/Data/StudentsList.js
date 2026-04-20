@@ -1,0 +1,71 @@
+export const tenthStud = [
+    {
+        id:1,
+        rank:"First",
+        image:"/images/Students/10-1.jpeg",
+        name:"Riyashini", 
+        marks:"498/500"
+    },
+    {
+        id:2,
+        rank:"Second",
+        image:"/images/Students/10-2.jpeg",
+        name:"Aswanth", 
+        marks:"495/500"
+    },
+    {
+        id:3,
+        rank:"Third",
+        image:"/images/Students/10-3.jpg",
+        name:"Harshitha", 
+        marks:"493/500"
+    },
+];
+
+export const EleventhStud = [
+    {
+        id:1,
+        rank:"First",
+        image:"/images/Students/10-1.jpeg",
+        name:"Riyashini", 
+        marks:"594/600"
+    },
+    {
+        id:2,
+        rank:"Second",
+        image:"/images/Students/10-2.jpeg",
+        name:"Aswanth", 
+        marks:"590/600"
+    },
+    {
+        id:3,
+        rank:"Third",
+        image:"/images/Students/10-3.jpg",
+        name:"Harshitha", 
+        marks:"589/600"
+    },
+];
+
+export const TwelthStud = [
+    {
+        id:1,
+        rank:"First",
+        image:"/images/Students/10-1.jpeg",
+        name:"Riyashini", 
+        marks:"594/600"
+    },
+    {
+        id:2,
+        rank:"Second",
+        image:"/images/Students/10-2.jpeg",
+        name:"Aswanth", 
+        marks:"590/600"
+    },
+    {
+        id:3,
+        rank:"Third",
+        image:"/images/Students/10-3.jpg",
+        name:"Harshitha", 
+        marks:"589/600"
+    },
+];

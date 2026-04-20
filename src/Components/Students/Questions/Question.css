@@ -1,0 +1,26 @@
+.question-btn
+{
+  background-color: #879cfe;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border: 1px solid ;
+  padding: 5px 12px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+.question-btn:hover
+{
+    background-color: #3440f3;
+}
+
+.question-btn:active
+{
+    background-color: #222adf;
+}
+
+.question-border
+{
+    border-color: #879cfe !important;
+}

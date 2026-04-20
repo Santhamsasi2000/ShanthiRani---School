@@ -1,0 +1,25 @@
+.summer-img
+{
+    height: 180px;
+}
+
+.summer-btn
+{
+    background-color: #576cfb;
+    border: none;
+    color: white;
+    text-decoration: none;
+    padding: 7px 14px;
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+.summer-btn:hover
+{
+    background-color: #3440f3;
+}
+
+.summer-btn:active
+{
+    background-color: #222adf;
+}
