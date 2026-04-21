@@ -12,7 +12,7 @@ const Home = () => {
         <SmartClass/>
         <FacilitiesHome/>
       </div>
-      {/* <Foundation/> */}
+      <Foundation/>
     </section>
   )
 }

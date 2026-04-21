@@ -1,35 +1,21 @@
-/* Foundation.css */
-.foundation
-{
-    background-color: #344966;
-    color: #f0f4ef;
+.foundation {
+  background-color: #344966;
+  color: #f0f4ef;
 }
 
-.fo-title
-{
-  font-size: x-large;
+.fo-title {
+  font-size: 1.2rem;
   font-weight: 900;
+  text-align: center;
 }
 
-.fo-subtitle
-{
-  font-size: x-large;
-  font-weight:600;
-}
-@media all and (min-width: 370px) and (max-width: 470px)
-{
-    .foundation
-    {
-       padding-left: 100px !important;
-    }
-
+.fo-subtitle {
+  font-size: 1.6rem;
+  font-weight: 600;
+  text-align: center;
 }
 
-@media all and (min-width: 470px) and (max-width:768px)
-{ 
-    .foundation
-    {
-       padding-left: 150px !important;
-    }
-
+/* spacing */
+.foundation > div {
+  margin-bottom: 20px;
 }
